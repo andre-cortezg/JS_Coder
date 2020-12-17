@@ -1,3 +1,4 @@
+
 function Articulo(_codigo, _descripcion, _stock, _precio) {
         this.codigo = _codigo;
         this.descripcion = _descripcion;
