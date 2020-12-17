@@ -1,8 +1,8 @@
-function Articulo(codigo, descripcion, stock, precio) {
-        this.codigo = codigo;
-        this.descripcion = descripcion;
-        this.stock = stock;
-        this.precio = precio;
+function Articulo(_codigo, _descripcion, _stock, _precio) {
+        this.codigo = _codigo;
+        this.descripcion = _descripcion;
+        this.stock = _stock;
+        this.precio = _precio;
     }
 
 
